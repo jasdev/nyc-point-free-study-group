@@ -24,7 +24,7 @@ We’ll watch an episode, take a break afterwards—during which folks can head 
 
 ## Code of Conduct
 
-Study group sessions are a safe space to learn and grow as an engineer. As such, attendees are asked to follow Recurse’s [Social Rules](https://www.recurse.com/manual#sub-sec-social-rules) and the [attached Code of Conduct](/coc.md).
+Study group sessions are a safe space to learn and grow as an engineer. As such, attendees are asked to follow Recurse’s [Social Rules](https://www.recurse.com/manual#sub-sec-social-rules) and [Code of Conduct](https://www.recurse.com/code-of-conduct).
 
 ## Etceteras
 
