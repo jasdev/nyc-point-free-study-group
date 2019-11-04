@@ -14,7 +14,7 @@ For the fellow calendar nerds, here’s an [`.ics` link](https://user.fm/calenda
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
-| 11/4/2019   | Episode #79 |
+| 11/4/2019   | [Effectful State Management: The Point](https://www.pointfree.co/episodes/ep79-effectful-state-management-the-point) |
 | 10/28/2019  | [Effectful State Management: Asynchronous Effects](https://www.pointfree.co/episodes/ep78-effectful-state-management-asynchronous-effects) |
 | 10/21/2019  | [Effectful State Management: Unidirectional Effects](https://www.pointfree.co/episodes/ep77-effectful-state-management-unidirectional-effects) |
 | 10/15/2019  | [Effectful State Management: Synchronous Effects](https://www.pointfree.co/episodes/ep76-effectful-state-management-synchronous-effects) |
