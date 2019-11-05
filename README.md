@@ -4,7 +4,7 @@ A weekly(-ish and (very) informal) get-together to watch episodes of [Point-Free
 
 ## Logistics
 
-Watchings will be held on Mondays from 6:30–7:30pm at Peloton’s office ([125 W 25th St., New York, NY 10001](https://maps.apple.com/?address=125%20W%2025th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&ll=40.744740,-73.992678&q=125%20W%2025th%20St&_ext=EiYpXpeGd8BeREAx16L2Kel/UsA53Gys0+ZfREBBIdkh5iZ/UsBQAw%3D%3D)). Upon arrival, send Jasdev a DM in the iOS Folks Slack (`@jasdev`) and he can badge you up.
+Watchings will be held from 6:30–7:30pm at Peloton’s office ([125 W 25th St., New York, NY 10001](https://maps.apple.com/?address=125%20W%2025th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&ll=40.744740,-73.992678&q=125%20W%2025th%20St&_ext=EiYpXpeGd8BeREAx16L2Kel/UsA53Gys0+ZfREBBIdkh5iZ/UsBQAw%3D%3D)). Upon arrival, send Jasdev a DM in the iOS Folks Slack (`@jasdev`) and he can badge you up.
 
 Light snacks and drinks—seltzer, soda, tea, coffee, chips, and the like—will be available. Note, the office’s conference rooms only fit ~8–10 folks, so, Jasdev might need help hosting if more than that many are interested in attending.
 
@@ -14,6 +14,7 @@ For the fellow calendar nerds, here’s an [`.ics` link](https://user.fm/calenda
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
+| 11/12/2019  | Episode 80 |
 | 11/4/2019   | [Effectful State Management: The Point](https://www.pointfree.co/episodes/ep79-effectful-state-management-the-point) |
 | 10/28/2019  | [Effectful State Management: Asynchronous Effects](https://www.pointfree.co/episodes/ep78-effectful-state-management-asynchronous-effects) |
 | 10/21/2019  | [Effectful State Management: Unidirectional Effects](https://www.pointfree.co/episodes/ep77-effectful-state-management-unidirectional-effects) |
