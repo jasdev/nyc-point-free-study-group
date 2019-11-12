@@ -14,7 +14,8 @@ For the fellow calendar nerds, here’s an [`.ics` link](https://user.fm/calenda
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
-| 11/12/2019  | Episode 80 |
+| 11/18/2019  | Episode 81 |
+| 11/12/2019  | [The Combine Framework and Effects: Part 1](https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1) |
 | 11/4/2019   | [Effectful State Management: The Point](https://www.pointfree.co/episodes/ep79-effectful-state-management-the-point) |
 | 10/28/2019  | [Effectful State Management: Asynchronous Effects](https://www.pointfree.co/episodes/ep78-effectful-state-management-asynchronous-effects) |
 | 10/21/2019  | [Effectful State Management: Unidirectional Effects](https://www.pointfree.co/episodes/ep77-effectful-state-management-unidirectional-effects) |
