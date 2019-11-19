@@ -20,7 +20,6 @@ Weâ€™ll start the viewing at ~6:30pm and then open a Hangout _afterwards_ (hereâ
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
-| 11/19/2019  | Episode 81 |
 | 11/12/2019  | [The Combine Framework and Effects: Part 1](https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1) |
 | 11/4/2019   | [Effectful State Management: The Point](https://www.pointfree.co/episodes/ep79-effectful-state-management-the-point) |
 | 10/28/2019  | [Effectful State Management: Asynchronous Effects](https://www.pointfree.co/episodes/ep78-effectful-state-management-asynchronous-effects) |
