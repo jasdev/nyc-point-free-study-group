@@ -20,7 +20,8 @@ Weâ€™ll start the viewing at ~6:30pm and then open a Hangout _afterwards_ (hereâ
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
-| 12/9/2019   | Episode 84 |
+| 12/16/2019   | Episode 85 |
+| 12/9/2019   | [Testable State Management: Ergonomics](https://www.pointfree.co/episodes/ep84-testable-state-management-ergonomics) |
 | 12/2/2019  | [Testable State Management: Effects](https://www.pointfree.co/episodes/ep83-testable-state-management-effects) |
 | 11/25/2019  | [Testable State Management: Reducers](https://www.pointfree.co/episodes/ep82-testable-state-management-reducers) |
 | 11/12/2019  | [The Combine Framework and Effects: Part 1](https://www.pointfree.co/episodes/ep80-the-combine-framework-and-effects-part-1) |
