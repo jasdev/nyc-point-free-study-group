@@ -20,7 +20,8 @@ Weâ€™ll start the viewing at ~6:30pm and then open a Hangout _afterwards_ (hereâ
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
-| 1/20/2019   | [The Case for Case Paths: Introduction](https://www.pointfree.co/episodes/ep87-the-case-for-case-paths-introduction) |
+| 1/27/2020   | Episode 88 |
+| 1/20/2020   | [The Case for Case Paths: Introduction](https://www.pointfree.co/episodes/ep87-the-case-for-case-paths-introduction) |
 | 12/16/2019   | [Testable State Management: The Point](https://www.pointfree.co/episodes/ep85-testable-state-management-the-point) |
 | 12/9/2019   | [Testable State Management: Ergonomics](https://www.pointfree.co/episodes/ep84-testable-state-management-ergonomics) |
 | 12/2/2019  | [Testable State Management: Effects](https://www.pointfree.co/episodes/ep83-testable-state-management-effects) |
