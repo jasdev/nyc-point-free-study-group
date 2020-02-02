@@ -20,6 +20,7 @@ Weâ€™ll start the viewing at ~6:30pm and then open a Hangout _afterwards_ (hereâ
 
 | Date        | Episode                               |
 | ----------- |-------------                          |
+| 2/12/2020   | Episode 90 |
 | 2/3/2020   | Episode 89 |
 | 1/27/2020   | [The Case for Case Paths: Properties](https://www.pointfree.co/episodes/ep88-the-case-for-case-paths-properties) |
 | 1/20/2020   | [The Case for Case Paths: Introduction](https://www.pointfree.co/episodes/ep87-the-case-for-case-paths-introduction) |
