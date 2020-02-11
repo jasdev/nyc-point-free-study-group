@@ -20,7 +20,8 @@ We’ll start the viewing at \~6:30pm and then open a Hangout _afterwards_ (here
 
 | Date | Episode |
 | ----------- | ------------- |
-| 2/12/2020 | Episode 90 |
+| 2/17/2020 | Episode 91 |
+| 2/12/2020 | [Composing Architecture with Case Paths][21] |
 | 2/3/2020 | [Case Paths for Free][5] |
 | 1/27/2020 | [The Case for Case Paths: Properties][6] |
 | 1/20/2020 | [The Case for Case Paths: Introduction][7] |
@@ -68,3 +69,4 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 [18]:	https://www.recurse.com/code-of-conduct
 [19]:	https://iosdevelopers.slack.com/messages/C034QKFU2
 [20]:	mailto:j@jasdev.me
+[21]:	https://www.pointfree.co/episodes/ep90-composing-architecture-with-case-paths
