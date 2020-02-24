@@ -20,7 +20,9 @@ We’ll start the viewing at \~6:30pm and then open a Hangout _afterwards_ (here
 
 | Date | Episode |
 | ----------- | ------------- |
-| 2/17/2020 | Episode 91 |
+| 3/2/2020 | Episode #93 |
+| 2/24/2020 | [Dependency Injection Made Modular](23) |
+| 2/17/2020 | [Dependency Injection Made Composable](22) |
 | 2/12/2020 | [Composing Architecture with Case Paths][21] |
 | 2/3/2020 | [Case Paths for Free][5] |
 | 1/27/2020 | [The Case for Case Paths: Properties][6] |
@@ -70,3 +72,5 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 [19]:	https://iosdevelopers.slack.com/messages/C034QKFU2
 [20]:	mailto:j@jasdev.me
 [21]:	https://www.pointfree.co/episodes/ep90-composing-architecture-with-case-paths
+[22]:	https://www.pointfree.co/episodes/ep91-dependency-injection-made-composable
+[23]:	https://www.pointfree.co/episodes/ep92-dependency-injection-made-modular
