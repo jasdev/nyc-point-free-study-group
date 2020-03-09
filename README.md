@@ -20,7 +20,7 @@ We’ll start the viewing at \~6:30pm and then open a Hangout _afterwards_ (here
 
 | Date | Episode |
 | ----------- | ------------- |
-| 3/9/2020 | Episode #94 |
+| 3/16/2020 | Episode #94 |
 | 3/2/2020 | [Modular Dependency Injection: The Point](https://www.pointfree.co/episodes/ep93-modular-dependency-injection-the-point) |
 | 2/24/2020 | [Dependency Injection Made Modular](23) |
 | 2/17/2020 | [Dependency Injection Made Composable](22) |
