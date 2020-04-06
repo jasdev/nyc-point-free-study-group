@@ -16,7 +16,8 @@ We’ll start a Zoom call at \~7:00pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
-| 4/6/2020 | Episode #97 |
+| 4/13/2020 | Episode #98 |
+| 4/6/2020 | [Adaptive State Management: The Point](https://www.pointfree.co/episodes/ep97-adaptive-state-management-the-point) |
 | 3/30/2020 | [Adaptive State Management: Actions](https://www.pointfree.co/episodes/ep96-adaptive-state-management-actions) |
 | 3/23/2020 | [Adaptive State Management: State](https://www.pointfree.co/episodes/ep95-adaptive-state-management-state) |
 | 3/16/2020 | [Adaptive State Management: Performance](https://www.pointfree.co/episodes/ep94-adaptive-state-management-performance) |
