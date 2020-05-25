@@ -18,7 +18,8 @@ We’ll start a Zoom call at \~7:00pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 5/18/2020 | Episode #102 |
+| 6/1/2020 | Episode #104 |
+| 5/18/2020 | [A Tour of the Composable Architecture: Part 3](https://www.pointfree.co/episodes/ep102-a-tour-of-the-composable-architecture-part-3) |
 | 5/11/2020 | [A Tour of the Composable Architecture: Part 2](https://www.pointfree.co/episodes/ep101-a-tour-of-the-composable-architecture-part-2) (we’ll meet 8:30pm EDT this week around) |
 | 5/4/2020 | [A Tour of the Composable Architecture: Part 1](https://www.pointfree.co/episodes/ep100-a-tour-of-the-composable-architecture-part-1) |
 | 4/20/2020 | [Ergonomic State Management: Part 2](https://www.pointfree.co/episodes/ep99-ergonomic-state-management-part-2) |
