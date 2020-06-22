@@ -18,7 +18,6 @@ We’ll start a Zoom call at \~7:00pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 6/23/2020 | Episode #107 (note we’re shifting to Tuesday evenings at the same time EDT) |
 | 6/15/2020 | Episode #106 |
 | 6/8/2020 | [Combine Schedulers: Controlling Time](https://www.pointfree.co/episodes/ep105-combine-schedulers-controlling-time) |
 | 5/18/2020 | [A Tour of the Composable Architecture: Part 3](https://www.pointfree.co/episodes/ep102-a-tour-of-the-composable-architecture-part-3) |
