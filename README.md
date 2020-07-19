@@ -18,7 +18,8 @@ We’ll start a Zoom call at \~7:00pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 7/14/2020 | Episode #108 |
+| 7/21/2020 | Episode #109 |
+| 7/14/2020 | [Composable SwiftUI Bindings: Case Paths](https://www.pointfree.co/episodes/ep108-composable-swiftui-bindings-case-paths) |
 | 7/7/2020 | [Composable SwiftUI Bindings: The Problem](https://www.pointfree.co/episodes/ep107-composable-swiftui-bindings-the-problem) |
 | 6/15/2020 | [Combine Schedulers: Erasing Time](https://www.pointfree.co/episodes/ep106-combine-schedulers-erasing-time) |
 | 6/8/2020 | [Combine Schedulers: Controlling Time](https://www.pointfree.co/episodes/ep105-combine-schedulers-controlling-time) |
