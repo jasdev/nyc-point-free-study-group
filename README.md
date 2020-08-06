@@ -18,7 +18,8 @@ We’ll start a Zoom call at \~7:00pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 8/4/2020 | Episode #111 |
+| 8/11/2020 | Episode #112 |
+| 8/6/2020 | [Designing Dependencies: Modularization](https://www.pointfree.co/episodes/ep111-designing-dependencies-modularization) |
 | 7/28/2020 | [Designing Dependencies: The Problem](https://www.pointfree.co/episodes/ep110-designing-dependencies-the-problem) |
 | 7/14/2020 | [Composable SwiftUI Bindings: Case Paths](https://www.pointfree.co/episodes/ep108-composable-swiftui-bindings-case-paths) |
 | 7/7/2020 | [Composable SwiftUI Bindings: The Problem](https://www.pointfree.co/episodes/ep107-composable-swiftui-bindings-the-problem) |
