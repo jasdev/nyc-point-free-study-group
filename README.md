@@ -18,7 +18,8 @@ We’ll start a Zoom call at \~7:00pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 8/17/2020 | Episode #113 |
+| 8/24/2020 | Episode #114 |
+| 8/17/2020 | [Designing Dependencies: Core Location](https://www.pointfree.co/episodes/ep113-designing-dependencies-core-location) |
 | 8/11/2020 | [Designing Dependencies: Reachability](https://www.pointfree.co/episodes/ep112-designing-dependencies-reachability) |
 | 8/6/2020 | [Designing Dependencies: Modularization](https://www.pointfree.co/episodes/ep111-designing-dependencies-modularization) |
 | 7/28/2020 | [Designing Dependencies: The Problem](https://www.pointfree.co/episodes/ep110-designing-dependencies-the-problem) |
