@@ -10,14 +10,15 @@ For the fellow calendar nerds, here’s an [`.ics` link][3].
 
 We’d love to have you join us, Here’s how—
 
-We’ll start a Zoom call at \~7:00pm* Eastern Time (here’s the [latest link][4] and it’ll also be in the shared calendar) to work on and discuss the episode and exercises. It’s also totally cool if you want to listen in on the conversation without participating.
+We’ll start a Zoom call at \~7:45pm* Eastern Time (here’s the [latest link][4] and it’ll also be in the shared calendar) to work on and discuss the episode and exercises. It’s also totally cool if you want to listen in on the conversation without participating.
 
-*There might be a slightly shifted week here and there.
+*The 24th’s meeting will be at 7pm and then we’ll shift to 7:45pm from the 31st onwards until further notice.
 
 ## Schedule
 
 | Date | Episode |
 | ----------- | ------------- |
+| 8/31/2020 | Episode #115 |
 | 8/24/2020 | Episode #114 |
 | 8/17/2020 | [Designing Dependencies: Core Location](https://www.pointfree.co/episodes/ep113-designing-dependencies-core-location) |
 | 8/11/2020 | [Designing Dependencies: Reachability](https://www.pointfree.co/episodes/ep112-designing-dependencies-reachability) |
