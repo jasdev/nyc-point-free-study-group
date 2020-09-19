@@ -18,7 +18,8 @@ We’ll start a Zoom call at \~7:45pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 9/14/2020 | Episode #117 |
+| 9/21/2020 | Episode #118 |
+| 9/14/2020 | [The Point of Redacted SwiftUI: Part 1](https://www.pointfree.co/episodes/ep117-redacted-swiftui-the-point-part-1) |
 | 8/24/2020 | [Designing Dependencies: The Point](https://www.pointfree.co/episodes/ep114-designing-dependencies-the-point) |
 | 8/17/2020 | [Designing Dependencies: Core Location](https://www.pointfree.co/episodes/ep113-designing-dependencies-core-location) |
 | 8/11/2020 | [Designing Dependencies: Reachability](https://www.pointfree.co/episodes/ep112-designing-dependencies-reachability) |
