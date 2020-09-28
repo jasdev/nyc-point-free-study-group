@@ -18,7 +18,7 @@ We’ll start a Zoom call at \~7:45pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 9/28/2020 | Episode #119 |
+| 10/5/2020 | Episode #119 |
 | 9/21/2020 | [The Point of Redacted SwiftUI: Part 2](https://www.pointfree.co/episodes/ep118-redacted-swiftui-the-point-part-2) |
 | 9/14/2020 | [The Point of Redacted SwiftUI: Part 1](https://www.pointfree.co/episodes/ep117-redacted-swiftui-the-point-part-1) |
 | 8/24/2020 | [Designing Dependencies: The Point](https://www.pointfree.co/episodes/ep114-designing-dependencies-the-point) |
