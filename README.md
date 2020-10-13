@@ -18,7 +18,8 @@ We’ll start a Zoom call at \~7:45pm* Eastern Time (here’s the [latest link][
 
 | Date | Episode |
 | ----------- | ------------- |
-| 10/12/2020 | Episode #120 |
+| 10/12/2020 | Episode #121 |
+| 10/12/2020 | [Parser Combinators Recap: Part 2](https://www.pointfree.co/episodes/ep120-parser-combinators-recap-part-2) |
 | 10/5/2020 | [Parser Combinators Recap: Part 1](https://www.pointfree.co/episodes/ep119-parser-combinators-recap-part-1) |
 | 9/21/2020 | [The Point of Redacted SwiftUI: Part 2](https://www.pointfree.co/episodes/ep118-redacted-swiftui-the-point-part-2) |
 | 9/14/2020 | [The Point of Redacted SwiftUI: Part 1](https://www.pointfree.co/episodes/ep117-redacted-swiftui-the-point-part-1) |
@@ -74,7 +75,7 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 [1]:	https://www.pointfree.co
 [2]:	https://maps.apple.com/?address=125%20W%2025th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&ll=40.744740,-73.992678&q=125%20W%2025th%20St&_ext=EiYpXpeGd8BeREAx16L2Kel/UsA53Gys0+ZfREBBIdkh5iZ/UsBQAw%3D%3D
 [3]:	https://user.fm/calendar/v1-b88d068d40c340849570a49f68c376ae/NYC%20Point-Free%20Study%20Group.ics
-[4]:	https://us04web.zoom.us/j/3543139408?pwd=RjMwbnFYbm13TVI2WDNWL1dKaG9JZz09
+[4]:	https://us04web.zoom.us/j/3543139408?pwd=di9YN2VoQ0o3dm41VDNrdGdOMmN1dz09
 [5]:	https://www.pointfree.co/episodes/ep89-case-paths-for-free "Case Paths for Free"
 [6]:	https://www.pointfree.co/episodes/ep88-the-case-for-case-paths-properties
 [7]:	https://www.pointfree.co/episodes/ep87-the-case-for-case-paths-introduction
