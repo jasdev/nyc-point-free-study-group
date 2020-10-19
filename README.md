@@ -16,7 +16,8 @@ We’ll start a Zoom call at \~7:45pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
-| 10/17/2020 | Episode #121 |
+| 10/26/2020 | Episode #122 |
+| 10/19/2020 | [Parsing Xcode Logs: Part 1](https://www.pointfree.co/episodes/ep121-parsing-xcode-logs-part-1) |
 | 10/12/2020 | [Parser Combinators Recap: Part 2](https://www.pointfree.co/episodes/ep120-parser-combinators-recap-part-2) |
 | 10/5/2020 | [Parser Combinators Recap: Part 1](https://www.pointfree.co/episodes/ep119-parser-combinators-recap-part-1) |
 | 9/21/2020 | [The Point of Redacted SwiftUI: Part 2](https://www.pointfree.co/episodes/ep118-redacted-swiftui-the-point-part-2) |
