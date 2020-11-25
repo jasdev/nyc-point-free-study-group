@@ -16,7 +16,7 @@ We’ll start a Zoom call at \~7:45pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
-| 11/2/2020 | Episode #123 |
+| 11/30/2020 | Episode #127 |
 | 10/19/2020 | [Parsing Xcode Logs: Part 1](https://www.pointfree.co/episodes/ep121-parsing-xcode-logs-part-1) |
 | 10/12/2020 | [Parser Combinators Recap: Part 2](https://www.pointfree.co/episodes/ep120-parser-combinators-recap-part-2) |
 | 10/5/2020 | [Parser Combinators Recap: Part 1](https://www.pointfree.co/episodes/ep119-parser-combinators-recap-part-1) |
