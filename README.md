@@ -16,7 +16,8 @@ We’ll start a Zoom call at \~7:45pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
-| 12/7/2020 | Episode #128 |
+| 12/14/2020 | [Parsing and Performance: Protocols](https://www.pointfree.co/episodes/ep129-parsing-and-performance-protocols) |
+| 12/9/2020 | [Parsing and Performance: Combinators](https://www.pointfree.co/episodes/ep128-parsing-and-performance-combinators) |
 | 12/2/2020 | [Parsing and Performance: Strings](https://www.pointfree.co/episodes/ep127-parsing-and-performance-strings) |
 | 10/19/2020 | [Parsing Xcode Logs: Part 1](https://www.pointfree.co/episodes/ep121-parsing-xcode-logs-part-1) |
 | 10/12/2020 | [Parser Combinators Recap: Part 2](https://www.pointfree.co/episodes/ep120-parser-combinators-recap-part-2) |
