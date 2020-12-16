@@ -16,6 +16,7 @@ We’ll start a Zoom call at \~7:45pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
+| 12/21/2020 | Episode #130 |
 | 12/14/2020 | [Parsing and Performance: Protocols](https://www.pointfree.co/episodes/ep129-parsing-and-performance-protocols) |
 | 12/9/2020 | [Parsing and Performance: Combinators](https://www.pointfree.co/episodes/ep128-parsing-and-performance-combinators) |
 | 12/2/2020 | [Parsing and Performance: Strings](https://www.pointfree.co/episodes/ep127-parsing-and-performance-strings) |
