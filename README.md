@@ -16,7 +16,6 @@ We’ll start a Zoom call at \~7:45pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
-| 12/28/2020 | (Working session — if there’s no episode, we’ll continue Van’s exploration of [`Func`](https://github.com/pointfreeco/swift-prelude/blob/0ec0a56bb99911647d2081f99a6f6c9699a6a646/Sources/Prelude/Func.swift#L2-L8) as a protocol) |
 | 12/21/2020 | [Parsing and Performance: The Point](https://www.pointfree.co/episodes/ep130-parsing-and-performance-the-point) |
 | 12/14/2020 | [Parsing and Performance: Protocols](https://www.pointfree.co/episodes/ep129-parsing-and-performance-protocols) |
 | 12/9/2020 | [Parsing and Performance: Combinators](https://www.pointfree.co/episodes/ep128-parsing-and-performance-combinators) |
