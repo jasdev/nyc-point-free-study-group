@@ -10,12 +10,13 @@ For the fellow calendar nerds, here’s an [`.ics` link][3].
 
 We’d love to have you join us, Here’s how—
 
-We’ll start a Zoom call at \~7:45pm Eastern Time (here’s the [latest link][4] and it’ll also be in the shared calendar) to work on and discuss the episode and exercises. It’s also totally cool if you want to listen in on the conversation without participating.
+We’ll start a Zoom call at \~7:00pm Eastern Time (here’s the [latest link][4] and it’ll also be in the shared calendar) to work on and discuss the episode and exercises. It’s also totally cool if you want to listen in on the conversation without participating.
 
 ## Schedule
 
 | Date | Episode |
 | ----------- | ------------- |
+| 2/1/2021 | Episode #133 |
 | 12/21/2020 | [Parsing and Performance: The Point](https://www.pointfree.co/episodes/ep130-parsing-and-performance-the-point) |
 | 12/14/2020 | [Parsing and Performance: Protocols](https://www.pointfree.co/episodes/ep129-parsing-and-performance-protocols) |
 | 12/9/2020 | [Parsing and Performance: Combinators](https://www.pointfree.co/episodes/ep128-parsing-and-performance-combinators) |
