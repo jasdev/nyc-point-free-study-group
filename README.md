@@ -16,7 +16,8 @@ We’ll start a Zoom call at \~7:00pm Eastern Time (here’s the [latest link][4
 
 | Date | Episode |
 | ----------- | ------------- |
-| 2/22/2021 | Episode #136 |
+| 3/1/2021 | Episode #137 |
+| 2/22/2021 | [SwiftUI Animation: Composable Architecture](https://www.pointfree.co/episodes/ep136-swiftui-animation-the-basics) |
 | 2/15/2021 | [SwiftUI Animation: The Basics](https://www.pointfree.co/episodes/ep135-swiftui-animation-the-basics) |
 | 2/1/2021 | [Concise Forms: Bye Bye Boilerplate](https://www.pointfree.co/episodes/ep133-concise-forms-bye-bye-boilerplate) |
 | 12/21/2020 | [Parsing and Performance: The Point](https://www.pointfree.co/episodes/ep130-parsing-and-performance-the-point) |
