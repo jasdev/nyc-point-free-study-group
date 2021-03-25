@@ -12,6 +12,20 @@ We’d love to have you join us, Here’s how—
 
 We’ll start a Zoom call at \~7:00pm Eastern Time (here’s the [latest link][4] and it’ll also be in the shared calendar) to work on and discuss the episode and exercises. It’s also totally cool if you want to listen in on the conversation without participating.
 
+## Format
+
+We’ll watch the episode on our own before meeting—for now with the remote-only setup—, and then pair through the episode’s exercises and otherwise nerd out amongst friends.
+
+## Code of Conduct
+
+Study group sessions are a safe space to learn and grow as an engineer. As such, attendees are asked to follow Recurse’s [Social Rules][17] and [Code of Conduct][18].
+
+## Etceteras
+
+Jasdev will try his best to keep both the shared calendar and \#[func-programming][19] channel up to date with any schedule changes or skipped weeks.
+
+If you need to get in touch, DM in iOS Folks or reach out by [email][20].
+
 ## Schedule
 
 | Date | Episode |
@@ -64,20 +78,6 @@ We’ll start a Zoom call at \~7:00pm Eastern Time (here’s the [latest link][4
 | 10/28/2019 | [Effectful State Management: Asynchronous Effects][14] |
 | 10/21/2019 | [Effectful State Management: Unidirectional Effects][15] |
 | 10/15/2019 | [Effectful State Management: Synchronous Effects][16] |
-
-## Format
-
-We’ll watch the episode on our own before meeting—for now with the remote-only setup—, and then pair through the episode’s exercises and otherwise nerd out amongst friends.
-
-## Code of Conduct
-
-Study group sessions are a safe space to learn and grow as an engineer. As such, attendees are asked to follow Recurse’s [Social Rules][17] and [Code of Conduct][18].
-
-## Etceteras
-
-Jasdev will try his best to keep both the shared calendar and \#[func-programming][19] channel up to date with any schedule changes or skipped weeks.
-
-If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 
 [1]:	https://www.pointfree.co
 [2]:	https://maps.apple.com/?address=125%20W%2025th%20St,%20New%20York,%20NY%20%2010001,%20United%20States&ll=40.744740,-73.992678&q=125%20W%2025th%20St&_ext=EiYpXpeGd8BeREAx16L2Kel/UsA53Gys0+ZfREBBIdkh5iZ/UsBQAw%3D%3D
