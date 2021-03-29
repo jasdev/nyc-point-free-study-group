@@ -30,7 +30,8 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 
 | Date | Episode |
 | ----------- | ------------- |
-| 3/29/2021 | Episode #140 |
+| 4/5/2021 | Episode #141 |
+| 3/29/2021 | [Better Test Dependencies: Immediacy](https://www.pointfree.co/episodes/ep140-better-test-dependencies-immediacy) |
 | 3/22/2021 | [Better Test Dependencies: Failability](https://www.pointfree.co/episodes/ep139-better-test-dependencies-failability) |
 | 2/22/2021 | [SwiftUI Animation: Composable Architecture](https://www.pointfree.co/episodes/ep136-swiftui-animation-the-basics) |
 | 2/15/2021 | [SwiftUI Animation: The Basics](https://www.pointfree.co/episodes/ep135-swiftui-animation-the-basics) |
