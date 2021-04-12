@@ -30,7 +30,7 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 
 | Date | Episode |
 | ----------- | ------------- |
-| 4/12/2021 | Episode #142 |
+| 4/19/2021 | Episode #142 |
 | 4/5/2021 | [Better Test Dependencies: The Point](https://www.pointfree.co/episodes/ep141-better-test-dependencies-the-point) |
 | 3/29/2021 | [Better Test Dependencies: Immediacy](https://www.pointfree.co/episodes/ep140-better-test-dependencies-immediacy) |
 | 3/22/2021 | [Better Test Dependencies: Failability](https://www.pointfree.co/episodes/ep139-better-test-dependencies-failability) |
