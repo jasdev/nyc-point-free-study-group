@@ -30,7 +30,8 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 
 | Date | Episode |
 | ----------- | ------------- |
-| 4/26/2021 | Episode #143 |
+| 5/3/2021 | Episode #144 |
+| 4/26/2021 | [A Tour of isowords: Part 2](https://www.pointfree.co/episodes/ep143-a-tour-of-isowords-part-2) |
 | 4/19/2021 | [A Tour of isowords: Part 1](https://www.pointfree.co/episodes/ep142-a-tour-of-isowords-part-1) |
 | 4/5/2021 | [Better Test Dependencies: The Point](https://www.pointfree.co/episodes/ep141-better-test-dependencies-the-point) |
 | 3/29/2021 | [Better Test Dependencies: Immediacy](https://www.pointfree.co/episodes/ep140-better-test-dependencies-immediacy) |
