@@ -30,7 +30,8 @@ If you need to get in touch, DM in iOS Folks or reach out by [email][20].
 
 | Date | Episode |
 | ----------- | ------------- |
-| 5/10/2021 | Episode #145 |
+| 5/17/2021 | Episode #146 |
+| 5/10/2021 | [A Tour of isowords: Part 4](https://www.pointfree.co/episodes/ep145-a-tour-of-isowords-part-4) |
 | 5/3/2021 | [A Tour of isowords: Part 3](https://www.pointfree.co/episodes/ep144-a-tour-of-isowords-part-3) |
 | 4/26/2021 | [A Tour of isowords: Part 2](https://www.pointfree.co/episodes/ep143-a-tour-of-isowords-part-2) |
 | 4/19/2021 | [A Tour of isowords: Part 1](https://www.pointfree.co/episodes/ep142-a-tour-of-isowords-part-1) |
